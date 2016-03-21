@@ -8,7 +8,7 @@ F1::
     if (toggle) {
         SetTimer, Timer, 10
     } else {
-        SetTImer, Timer, Off
+        SetTimer, Timer, Off
     }
 return
 
